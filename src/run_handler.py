@@ -32,6 +32,15 @@ def northbound_generator():
         request
         10. logging_level: nb generator logging level (is passed from
         nstat orchestrator)
+
+        :param
+        :param
+        :param
+        :type
+        :type
+        :type
+    """
+
     """
 
     cmd = ('source /opt/venv_nb_generator/bin/activate; '
