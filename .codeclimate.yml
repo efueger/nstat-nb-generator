@@ -4,6 +4,8 @@ engines:
   enabled: true
  radon:
   enabled: true
+  exclude_fingerprints:
+    - d303ad77d67e5097810434a31d895671
  shellcheck:
    enabled: true
 ratings:
